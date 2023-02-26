@@ -45,8 +45,8 @@ public class WhileLoop_Demo {
 		while (i1 <= 2);
 	
 		
-		
-		String place = "Brooklyn";
+		//Change location
+		String place = "Queens";
 		int start = 1;
 		while(start<=3) {
 			System.out.println("I am from " + place);
