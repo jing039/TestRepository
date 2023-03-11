@@ -14,7 +14,7 @@ public class AssignmentOperatorsDemo {
 		 * 
 		 */
 
-		int a = 87;
+		int a = 88;
 		int result = a-7;
 		int result1 = a/=7;
 		System.out.println(a+=7);
